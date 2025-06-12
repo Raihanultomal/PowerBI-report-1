@@ -2,7 +2,7 @@
 # Title: This report is about Customer Segmentation and Healthcare Engagement Overview
 
 ## Overview:
-![Dashboard Preview]((https://github.com/Raihanultomal/PowerBI-report-1/blob/main/Report%201%20overview.png))
+![Dashboard Preview](https://github.com/Raihanultomal/PowerBI-report-1/blob/main/Report%201%20overview.png)
 
 ## Working Steps:
 Step 1:
