@@ -1,7 +1,7 @@
 # PowerBI-report-1
 # Title: This report is about Customer Segmentation and Healthcare Engagement Overview
 
-# Working Steps:
+## Working Steps:
 Step 1:
 Initially we have to transform the dataset into the PowerBI. After checking the dataset, we found the dataset named “MemberBasicExtra” is not well named according to column. Therefore, we have fixed the column name of this dataset. It will help us to make relation in between two dataset “MemberBasic” and “MemberBasicExtra”. After that we have loaded the dataset to visualize it. 
 
